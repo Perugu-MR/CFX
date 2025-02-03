@@ -11,7 +11,7 @@ namespace CFX.Maintenance
     /// that may undergo maintenance operations
     /// <code language="none">
     /// {
-    ///   "CFXHandle": "SMT.SIPLACE_SX4.10000000"
+    ///   "CFXHandle": "SMT.SIPLACE_SX4.1000000"
     /// }
     /// </code>
     /// </summary>
